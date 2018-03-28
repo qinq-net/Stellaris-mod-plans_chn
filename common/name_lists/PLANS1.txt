@@ -466,6 +466,22 @@ PLANS1 = {
 # 			}
 			sequential_name = "第%C%特种部队"
 		}
+
+		occupation_army = {
+			sequential_name = "第%C%公安旅"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "第%C%机械化步兵旅"
+		}
+
+		android_occupation_army = {
+			sequential_name = "第%C%装甲旅"
+		}
+
+		machine_occupation_army = {
+			sequential_name = "第%C%机械化步兵旅"
+		}
 	}
 
 	planet_names = {
